@@ -42,7 +42,7 @@ POST /api/generate-story          # Create new story
 GET /api/stories/{id}             # Get complete story
 POST /api/stories/{id}/hero-image # Generate hero portrait
 GET /api/stories/{id}/scenes/{n}/status # Check progress
-
+```
 ## 🚀 Innovation Impact
 This project demonstrates practical **multi-modal AI orchestration** in a production environment, solving real content creation challenges. The modular architecture enables rapid scaling and easy integration with existing creative workflows.
 
