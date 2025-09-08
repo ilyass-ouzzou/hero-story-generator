@@ -1,7 +1,7 @@
 # 🎭 AI-Powered Hero Story Generator
 
 ## 🚀 Project Overview
-An advanced AI application that transforms simple character descriptions into complete storytelling experiences with narrative, visuals, and audio. Built with **Google Gemini 2.0**, **ElevenLabs TTS**, and **FastAPI**.
+An advanced AI application that transforms simple character descriptions into complete storytelling experiences with narrative, visuals, and audio. Built with **Google Gemini 2.0**, **ElevenLabs TTS**, and **FastAPI** for backend.
 
 ## 🎯 Core Innovation
 
