@@ -54,5 +54,4 @@ This project demonstrates practical **multi-modal AI orchestration** in a produc
 
 ### Future Vision
 - Interactive branching narratives  
-- Emotion modeling  
 - Enterprise content automation
